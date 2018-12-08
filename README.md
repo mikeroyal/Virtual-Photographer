@@ -24,4 +24,6 @@ Possible improvements: Have the program work for multiple people at the same tim
 
 I hope your enjoy using Virtual Photographer because we sure had fun making it. 
 
-![facialrecog](https://user-images.githubusercontent.com/18353476/28000092-614cec1c-64d8-11e7-94aa-3815395fa837.jpg)
+<p align="center">
+  <img alt="facialrecog" src="https://user-images.githubusercontent.com/18353476/28000092-614cec1c-64d8-11e7-94aa-3815395fa837.jpg">
+</p>
